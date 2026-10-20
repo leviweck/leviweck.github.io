@@ -1,0 +1,13 @@
+# robots.txt for https://leviweck.github.io/
+# Everything on this host is open to crawlers. Nothing is blocked.
+
+User-agent: *
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+Sitemap: https://leviweck.github.io/same-state/sitemap.xml
